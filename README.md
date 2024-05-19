@@ -1,1 +1,1 @@
-# Global-Super-Store
+# **Global SuperStore**
