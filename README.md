@@ -3,7 +3,7 @@
 
 # **Steps Involved In Power Bi Analysis**
 1) Data Integration
-- Multiple Data Sources: Connects to a wide range of data sources, including Excel, SQL Serve and web data.
-- Data Transformation: Use Power Query Editor to clean, transform, and shape data as needed before analysis
+- *Multiple Data Sources:* Connects to a wide range of data sources, including Excel, SQL Serve and web data.
+- *Data Transformation:* Use Power Query Editor to clean, transform, and shape data as needed before analysis
 
 
