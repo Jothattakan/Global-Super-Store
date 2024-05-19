@@ -3,7 +3,7 @@
 
 # **Steps Involved In Power Bi Analysis**
 * Data Prepration.
- ** Load Data.
+- Load Data.
  - Open Power BI Desktop.
  - Open Power Query Editor.
  - Inspect Data.
