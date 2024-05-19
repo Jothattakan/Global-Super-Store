@@ -14,7 +14,7 @@
 - *Interactive Dashboards:* Create interactive dashboards with various visuals like charts, graphs, maps, and tables.
 - *Custom Visuals:* Use or create custom visuals to meet specific analysis needs.
 
-4) Data Analysis
+4) Data Analysis.
 - *Descriptive Analytics:* Summarise historical data to understand what has happened.
 - *Diagnostic Analytics:* Analyse data to understand why something happened.
 - *Predictive Analytics:* Use machine learning models to predict future trends.
