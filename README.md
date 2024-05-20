@@ -22,6 +22,6 @@
 - *Prescriptive Analytics:* Suggest actions to benefit from predictions and trends.
 
 
- # **Link to the video presentation of the program**
+ # **Link to the video presentation**
 
  For the video description please click the link
